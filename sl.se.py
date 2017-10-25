@@ -10,7 +10,7 @@ def fares(age, student=False, senior=False, adult=False, discount=False):
         elif senior==True:
             return "discount price 20kr"
 
-        print "Djurgården"
+        print "Djurgarden"
 
 
 
